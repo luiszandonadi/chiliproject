@@ -1,0 +1,3 @@
+[submodule "vendor/plugins/redmine_sprints"]
+	path = vendor/plugins/redmine_sprints
+	url = git://gitorious.intranet.geocontrol.com.br/sistemas-externos/redmine_sprints.git
