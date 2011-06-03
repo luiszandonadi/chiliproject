@@ -1,0 +1,8 @@
+APT:
+
+	build-essentials postgresql libpq-dev libmagickwand-dev git
+
+GEM:
+	bundler
+
+	bundle --without mysql mysql2 sqlite
