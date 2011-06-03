@@ -68,3 +68,8 @@ Dir.glob File.expand_path("../vendor/plugins/*/Gemfile", __FILE__) do |file|
   puts "Loading #{file} ..." if $DEBUG # `ruby -d` or `bundle -v`
   instance_eval File.read(file)
 end
+
+group :scrum_pm do
+  gem "googlecharts"
+  gem "mini_magick"
+end
