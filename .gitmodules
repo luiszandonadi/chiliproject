@@ -1,3 +1,6 @@
 [submodule "vendor/plugins/redmine_sprints"]
 	path = vendor/plugins/redmine_sprints
 	url = git://gitorious.intranet.geocontrol.com.br/sistemas-externos/redmine_sprints.git
+[submodule "vendor/plugins/attachment_fu"]
+	path = vendor/plugins/attachment_fu
+	url = git://github.com/technoweenie/attachment_fu.git
