@@ -1,0 +1,20 @@
+production:
+  adapter: postgresql
+  database: chiliproject
+  host: localhost
+  username: chiliproject
+  password: chiliproject
+
+development:
+  adapter: postgresql
+  database: chiliproject_development
+  host: localhost
+  username: chiliproject
+  password: chiliproject
+
+test:
+  adapter: postgresql
+  database: chiliproject_test
+  host: localhost
+  username: chiliproject
+  password: chiliproject
