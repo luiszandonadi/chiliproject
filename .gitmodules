@@ -7,3 +7,6 @@
 [submodule "vendor/plugins/redmine_time_tracker"]
 	path = vendor/plugins/redmine_time_tracker
 	url = git://github.com/delaitre/redmine_time_tracker.git
+[submodule "vendor/plugins/redmine_todos_plugin"]
+	path = vendor/plugins/redmine_todos_plugin
+	url = git://github.com/dalyons/redmine-todos-scrum-plugin.git
